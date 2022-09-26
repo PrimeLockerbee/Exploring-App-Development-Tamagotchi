@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Tamagotchi_Pal.AppShell.xaml", "AppShell.xaml", typeof(global::Notes.AppShell))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Notes.AppShell.xaml", "AppShell.xaml", typeof(global::Notes.AppShell))]
 
 namespace Notes {
     

@@ -5,16 +5,35 @@
              Title="TamagotchiPal">
     <!-- Layout children vertically -->
     <StackLayout Margin="20">
-        <Editor x:Name="editor"
-                Placeholder="Enter your note"
-                HeightRequest="100" />
         <!-- Layout children in two columns -->
         <Grid ColumnDefinitions="*,*">
-            <Button Text="Save"
-                    Clicked="OnSaveButtonClicked" />
-            <Button Grid.Column="1"
-                    Text="Delete"
-                    Clicked="OnDeleteButtonClicked"/>
+            <Button Grid.Row="10"
+                    x:Name="BoredomButton"
+                    Text="Boredom"
+                    Clicked="OnPageButtonClicked" />
+            <Button Grid.Row="11"
+                    x:Name="EnergyButton"
+                    Text="Energy"
+                    Clicked="OnPageButtonClicked" />
+            <Button Grid.Row="12"
+                    x:Name="HungerButton"
+                    Text="Hunger"
+                    Clicked="OnPageButtonClicked" />
+            <Button Grid.Column="1" 
+                    Grid.Row="10"
+                    x:Name="SocialButton"
+                    Text="Social"
+                    Clicked="OnPageButtonClicked" />
+            <Button Grid.Column="1" 
+                    Grid.Row="11"
+                    x:Name="StimulusButton"
+                    Text="Stimulus"
+                    Clicked="OnPageButtonClicked" />
+            <Button Grid.Column="1" 
+                    Grid.Row="12"
+                    x:Name="ThirstButton"
+                    Text="Thirst"
+                    Clicked="OnPageButtonClicked" />
         </Grid>
     </StackLayout>
 </ContentPage>

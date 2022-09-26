@@ -6,7 +6,6 @@ D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\N
 D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes\obj\Debug\netstandard2.0\Notes.GeneratedMSBuildEditorConfig.editorconfig
 D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
 D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
-D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
 D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes\obj\Debug\netstandard2.0\Views\NotesPage.xaml.g.cs
 D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfoInputs.cache
 D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfo.cs
@@ -15,3 +14,9 @@ D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\N
 D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes\obj\Debug\netstandard2.0\Notes.dll
 D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes\obj\Debug\netstandard2.0\ref\Notes.dll
 D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes\obj\Debug\netstandard2.0\Notes.pdb
+D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes\obj\Debug\netstandard2.0\Views\Boredom.xaml.g.cs
+D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes\obj\Debug\netstandard2.0\Views\Energy.xaml.g.cs
+D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes\obj\Debug\netstandard2.0\Views\Hunger.xaml.g.cs
+D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes\obj\Debug\netstandard2.0\Views\Social.xaml.g.cs
+D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes\obj\Debug\netstandard2.0\Views\Stimulus.xaml.g.cs
+D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes\obj\Debug\netstandard2.0\Views\Thirst.xaml.g.cs
