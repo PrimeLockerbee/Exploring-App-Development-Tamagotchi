@@ -8,7 +8,8 @@ namespace Notes
         public App()
         {
             InitializeComponent();
-            MainPage = new NavigationPage(new AppShell());
+            MainPage = new MainPage();
+
         }
 
         protected override void OnStart()

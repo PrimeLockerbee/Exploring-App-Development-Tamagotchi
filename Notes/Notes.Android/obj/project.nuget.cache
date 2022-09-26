@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "nsYZ+Ut1R8bq22l4NiJnYnL26ndMo2DOl47fofWOVY1GKe+UzU+E6vv7gpzyAX4vtAJaEKNvxrk77PkJrk6Zew==",
+  "dgSpecHash": "Io00ZIeEiTuxLP3ygj0Xm2XffmgH1ndvzv1FMLlIf1G89xHg4nb35Rf02Z3wxkVwmlqtk6CuO9pY0qTcb16nhQ==",
   "success": true,
   "projectFilePath": "D:\\School\\Exploring App Development\\Exploring-App-Development-Tamagotchi\\Notes\\Notes.Android\\Notes.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\bradl_t9onchb\\.nuget\\packages\\fody\\6.6.3\\fody.6.6.3.nupkg.sha512",
+    "C:\\Users\\bradl_t9onchb\\.nuget\\packages\\propertychanged.fody\\4.0.3\\propertychanged.fody.4.0.3.nupkg.sha512",
     "C:\\Users\\bradl_t9onchb\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.annotation\\1.1.0.8\\xamarin.androidx.annotation.1.1.0.8.nupkg.sha512",

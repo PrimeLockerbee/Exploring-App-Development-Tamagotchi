@@ -5,7 +5,6 @@ D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\N
 D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes\obj\Debug\netstandard2.0\Notes.csproj.AssemblyReference.cache
 D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes\obj\Debug\netstandard2.0\Notes.GeneratedMSBuildEditorConfig.editorconfig
 D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
-D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
 D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes\obj\Debug\netstandard2.0\Views\NotesPage.xaml.g.cs
 D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfoInputs.cache
 D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfo.cs
@@ -20,3 +19,6 @@ D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\N
 D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes\obj\Debug\netstandard2.0\Views\Social.xaml.g.cs
 D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes\obj\Debug\netstandard2.0\Views\Stimulus.xaml.g.cs
 D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes\obj\Debug\netstandard2.0\Views\Thirst.xaml.g.cs
+D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes\obj\Debug\netstandard2.0\Notes.csproj.Fody.CopyLocal.cache
+D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes\obj\Debug\netstandard2.0\Notes.csproj.Fody.RuntimeCopyLocal.cache
+D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes\obj\Debug\netstandard2.0\MainPage.xaml.g.cs

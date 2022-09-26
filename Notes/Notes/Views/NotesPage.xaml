@@ -1,39 +1,41 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Notes.Views.NotesPage"
              Title="TamagotchiPal">
-    <!-- Layout children vertically -->
+   <ContentPage.Content>
+        <!-- Layout children vertically -->
     <StackLayout Margin="20">
         <!-- Layout children in two columns -->
         <Grid ColumnDefinitions="*,*">
             <Button Grid.Row="10"
                     x:Name="BoredomButton"
                     Text="Boredom"
-                    Clicked="OnPageButtonClicked" />
+                    Clicked="OnBoredomButtonClicked" />
             <Button Grid.Row="11"
                     x:Name="EnergyButton"
                     Text="Energy"
-                    Clicked="OnPageButtonClicked" />
+                    Clicked="OnEnergyButtonClicked" />
             <Button Grid.Row="12"
                     x:Name="HungerButton"
                     Text="Hunger"
-                    Clicked="OnPageButtonClicked" />
+                    Clicked="OnHungerButtonClicked" />
             <Button Grid.Column="1" 
                     Grid.Row="10"
                     x:Name="SocialButton"
                     Text="Social"
-                    Clicked="OnPageButtonClicked" />
+                    Clicked="OnSocialButtonClicked" />
             <Button Grid.Column="1" 
                     Grid.Row="11"
                     x:Name="StimulusButton"
                     Text="Stimulus"
-                    Clicked="OnPageButtonClicked" />
+                    Clicked="OnStimulusButtonClicked" />
             <Button Grid.Column="1" 
                     Grid.Row="12"
                     x:Name="ThirstButton"
                     Text="Thirst"
-                    Clicked="OnPageButtonClicked" />
+                    Clicked="OnThirstButtonClicked" />
         </Grid>
     </StackLayout>
+   </ContentPage.Content>
 </ContentPage>

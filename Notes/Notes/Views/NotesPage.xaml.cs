@@ -11,9 +11,34 @@ namespace Notes.Views
             InitializeComponent();
         }
 
-        async void OnPageButtonClicked(object sender, EventArgs e)
+        async void OnBoredomButtonClicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new Boredom());
+        }
+
+        async void OnEnergyButtonClicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new Energy());
+        }
+
+        async void OnHungerButtonClicked(object sender, EventArgs e)
         {
             await Navigation.PushAsync(new Hunger());
+        }
+
+        async void OnSocialButtonClicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new Social());
+        }
+
+        async void OnStimulusButtonClicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new Stimulus());
+        }
+
+        async void OnThirstButtonClicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new Thirst());
         }
     }
 }
