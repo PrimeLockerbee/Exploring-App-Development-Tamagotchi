@@ -1,6 +1,12 @@
 ﻿using System;
 using System.IO;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
 using Xamarin.Forms;
+using Xamarin.Forms.Xaml;
 
 namespace Notes.Views
 {
@@ -9,6 +15,8 @@ namespace Notes.Views
         public NotesPage()
         {
             InitializeComponent();
+
+            var image = new Image { Source = "WAWATCHI2.jpg" };
         }
 
         async void OnBoredomButtonClicked(object sender, EventArgs e)

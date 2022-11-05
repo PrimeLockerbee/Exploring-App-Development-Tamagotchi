@@ -578,3 +578,5 @@ D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\N
 D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes.Android\obj\Debug\110\android\assets\Notes.dll
 D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes.Android\obj\Debug\110\android\assets\Notes.pdb
 D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes.Android\obj\Debug\110\android\assets\PropertyChanged.dll
+D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes.Android\obj\Debug\110\res\drawable\wawatchi2.jpg
+D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes.Android\obj\Debug\110\res\drawable\ginjirotchi.jpg

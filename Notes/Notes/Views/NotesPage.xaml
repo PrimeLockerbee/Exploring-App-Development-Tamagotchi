@@ -3,11 +3,16 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Notes.Views.NotesPage"
              Title="TamagotchiPal">
-   <ContentPage.Content>
-        <!-- Layout children vertically -->
+    <!-- Layout children vertically -->
     <StackLayout Margin="20">
+
         <!-- Layout children in two columns -->
         <Grid ColumnDefinitions="*,*">
+            <Image  Source="ginjirotchi.jpg"
+                    Grid.ColumnSpan="2"
+                    Grid.RowSpan="9"
+                    HorizontalOptions="Center" 
+                    VerticalOptions="Center" />
             <Button Grid.Row="10"
                     x:Name="BoredomButton"
                     Text="Boredom"
@@ -37,5 +42,4 @@
                     Clicked="OnThirstButtonClicked" />
         </Grid>
     </StackLayout>
-   </ContentPage.Content>
 </ContentPage>
