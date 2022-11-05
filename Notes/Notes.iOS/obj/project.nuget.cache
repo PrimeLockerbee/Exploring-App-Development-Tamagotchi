@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "h6PXK/Tuk0lSUsQ3BdgWcMXIlztSnMf7Z8uBl7j5Qa9Nx+F7vpWIYHk9IGXNHzn/cBzJQjAzWjsD3GF57oDaig==",
+  "success": true,
+  "projectFilePath": "D:\\School\\Exploring App Development\\Exploring-App-Development-Tamagotchi\\Notes\\Notes.iOS\\Notes.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bradl_t9onchb\\.nuget\\packages\\fody\\6.6.3\\fody.6.6.3.nupkg.sha512",
+    "C:\\Users\\bradl_t9onchb\\.nuget\\packages\\propertychanged.fody\\4.0.3\\propertychanged.fody.4.0.3.nupkg.sha512",
+    "C:\\Users\\bradl_t9onchb\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

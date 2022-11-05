@@ -1,0 +1,17 @@
+D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes\bin\Debug\netstandard2.0\Tamagotchi Pal.deps.json
+D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes\bin\Debug\netstandard2.0\Tamagotchi Pal.dll
+D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes\bin\Debug\netstandard2.0\ref\Tamagotchi Pal.dll
+D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes\bin\Debug\netstandard2.0\Tamagotchi Pal.pdb
+D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes\obj\Debug\netstandard2.0\Tamagotchi Pal.csproj.AssemblyReference.cache
+D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes\obj\Debug\netstandard2.0\Tamagotchi Pal.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes\obj\Debug\netstandard2.0\Views\NotesPage.xaml.g.cs
+D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes\obj\Debug\netstandard2.0\Tamagotchi Pal.AssemblyInfoInputs.cache
+D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes\obj\Debug\netstandard2.0\Tamagotchi Pal.AssemblyInfo.cs
+D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes\obj\Debug\netstandard2.0\Tamagotchi Pal.csproj.CoreCompileInputs.cache
+D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes\obj\Debug\netstandard2.0\XamlC.stamp
+D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes\obj\Debug\netstandard2.0\Tamagotchi Pal.dll
+D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes\obj\Debug\netstandard2.0\ref\Tamagotchi Pal.dll
+D:\School\Exploring App Development\Exploring-App-Development-Tamagotchi\Notes\Notes\obj\Debug\netstandard2.0\Tamagotchi Pal.pdb
