@@ -17,7 +17,7 @@ namespace Notes.Views
             InitializeComponent();
 
             var image = new Image { Source = "WAWATCHI2.jpg" };
-        }
+        } 
 
         async void OnBoredomButtonClicked(object sender, EventArgs e)
         {
